@@ -1,0 +1,25 @@
+name: base
+channels:
+- conda-forge
+dependencies:
+- traits
+- appmode
+- matplotlib==3.5.2
+- numpy
+- sympy
+- scipy
+- k3d
+- ipywidgets==7.7.0
+- ipympl==0.9.1
+- ipytree==0.2.1
+- shapely
+- importlib_resources
+- pip
+- pip:
+  - anastruct==1.2.0
+  - openpyxl
+  - bmcs-utils==0.0.32a0
+  - bmcs-ibvpy==0.0.25a0
+  - bmcs-cross-section==0.0.55a0
+  - bmcs-beam==0.0.20a0
+  - bmcs-shear-zone==0.0.3a0
