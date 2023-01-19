@@ -22,4 +22,4 @@ dependencies:
   - bmcs-ibvpy==0.0.25a0
   - bmcs-cross-section==0.0.55a0
   - bmcs-beam==0.0.20a0
-  - bmcs-shear-zone==0.0.3a0
+  - bmcs-shear==0.0.3a0
