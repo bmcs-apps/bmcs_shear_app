@@ -8,6 +8,7 @@ dependencies:
 - numpy
 - sympy
 - scipy
+- pandas
 - k3d
 - ipywidgets==7.7.0
 - ipympl==0.9.1
